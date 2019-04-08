@@ -1,2 +1,0 @@
-# gameDevelopment
-Created with CodeSandbox
